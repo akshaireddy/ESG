@@ -1,4 +1,4 @@
-# Reatil CBDC Smart Contract Template BBN Testnet
+# ESG Smart Contract Template BBN Testnet
 
 # 1. Project Setup
 
